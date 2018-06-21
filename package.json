@@ -1,0 +1,21 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pata-H/Hangman-Constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Pata-H/Hangman-Constructor#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "letter": "0.0.1",
+    "word": "^0.2.4"
+  }
+}
